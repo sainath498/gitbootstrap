@@ -1,0 +1,31 @@
+ 
+ .jumbotron{
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100%;
+}
+.lead{
+  color:gold;
+}
+.display-4{
+  color: aqua;
+}
+.jumbotron-spl{
+  height:405px;
+  margin: 5px;
+  padding:5px;
+
+}
+.carousel-indicators li {
+    border-radius:35px;
+    width: 20px;
+    height:15px;
+}
+.active{
+
+list-style-type:none;
+display: flex;
+padding:5px;
+justify-content:flex-end;
+
+}
